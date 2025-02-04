@@ -95,6 +95,47 @@ header p {
   color: #4caf50;
 }
 
+.projects {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.projects h2 {
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.project-entry {
+  margin-bottom: 20px;
+}
+
+.project-entry h4 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.project-entry a {
+  color: #4caf50;
+  text-decoration: none;
+}
+
+.project-entry a:hover {
+  text-decoration: underline;
+}
+
+.project-entry p {
+  font-size: 1.1em;
+  color: #555;
+}
+
+.project-entry p strong {
+  color: #4caf50;
+}
+
 footer {
   text-align: center;
   padding: 10px;
