@@ -56,11 +56,43 @@ header p {
 }
 
 .personal-description {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 30px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.education {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.education h2 {
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.education-entry {
+  margin-bottom: 20px;
+}
+
+.education-entry h3 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.education-entry p {
+  font-size: 1.1em;
+  color: #555;
+}
+
+.education-entry p strong {
+  color: #4caf50;
 }
 
 footer {
